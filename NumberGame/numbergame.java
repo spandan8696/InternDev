@@ -60,7 +60,7 @@ public class numbergame extends JFrame implements ActionListener {
         add(head2);
 
         //label
-        head3 = new JLabel("NUMBER GAME" + x);
+        head3 = new JLabel("NUMBER GAME");
         head3.setBounds(160, 80, 500, 30);
         head3.setForeground(new Color(255, 255, 255));
         head3.setFont(new Font("Arial Black", Font.PLAIN, 30));
